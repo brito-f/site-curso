@@ -1,2 +1,4 @@
 # site-curso
- Criando site de curso
+ Criando um site de curso
+
+ Passos a seguir
